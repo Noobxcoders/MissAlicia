@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4abd6e0f613946553de53.jpg">
+  <img src="https://telegra.ph/file/506b2d10249d64a921bf3.jpg">
 </p>
 
 
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 Anon ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="1320" height="138.45"/></a></p>

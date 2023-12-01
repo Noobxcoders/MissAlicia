@@ -1,7 +1,6 @@
 <img src="
 <img src=">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXMUSIC&theme=flag-india)
 
 [![GIF](https://github.com/dattudd/Anonx/blob/master")
 

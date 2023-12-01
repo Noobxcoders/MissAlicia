@@ -1,5 +1,3 @@
-("https://github.com/dattudd/Anonx/blob/master")
-
 
 <p align="center">
   <img src="https://telegra.ph/file/506b2d10249d64a921bf3.jpg">

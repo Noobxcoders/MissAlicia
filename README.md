@@ -1,8 +1,4 @@
-<img src="
-<img src=">
-
-
-[![GIF](https://github.com/dattudd/Anonx/blob/master")
+("https://github.com/dattudd/Anonx/blob/master")
 
 
 <p align="center">

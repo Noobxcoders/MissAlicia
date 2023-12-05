@@ -1,11 +1,3 @@
-
-<p align="center">
-  <img src="https://telegra.ph/file/506b2d10249d64a921bf3.jpg">
-</p>
-<img src="https://telegra.ph/file/cda0332a5bb9622d2c58e.jpg">
-
-
-
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
@@ -14,7 +6,7 @@
     ─「 Anon ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dattudd/Anonx"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="1320" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Noobxcoders/MissAlicia"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="1320" height="138.45"/></a></p>
 
   
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
